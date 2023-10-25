@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Syed Badruddoja"
 title_separator          : "-"
 name                     : &name "Syed Badruddoja"
-description              : &description "Ph.D Candidate in Computer Science & Engineering"
+description              : &description "Ph.D - Computer Science & Engineering"
 url                      : https://sbadruddoja.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sbadruddoja/sbadruddoja.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Syed Badruddoja"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate - Computer Science and Engineering at University of North Texas"
-  employer         : University of North Texas
-  location         : "Denton, Texas"
+  bio              : "Assistant Professor -Computer Science"
+  employer         : California State University, Sacramento
+  location         : "Sacramento, California"
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : https://scholar.google.com/citations?user=Ayf5PM0AAAAJ&hl=en&oi=ao
-  email            : syedbadruddoja@my.unt.edu
+  email            : badruddoja@csus.edu
   researchgate     : https://www.researchgate.net/profile/Syed_Badruddoja?ev=hdr_xprf
   uri              :
   bitbucket        :
