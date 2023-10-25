@@ -15,6 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+## 2023
+* S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Layerwise Interoperability in Metaverse: key to Next-Generation Electronic Commerce", 2023 IEEE International Conference on Metaverse Computing Networking and Applications (METACOM).
+* S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap", 2023 The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
+* S. Talapuru, R. Dantu, K. Upadhyay, S. Zaman, S. Badruddoja, "The Dark Side of Metaverse: Why is it Falling Short of Expectation", 2023, The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
+* 
 ## 2022
 
 *	S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and K. Upadhyay, "Making Smart Contracts Predict and Scale," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480.
