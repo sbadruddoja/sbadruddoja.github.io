@@ -19,9 +19,8 @@ author_profile: true
 * S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Layerwise Interoperability in Metaverse: key to Next-Generation Electronic Commerce", 2023 IEEE International Conference on Metaverse Computing Networking and Applications (METACOM).
 * S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap", 2023 The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
 * S. Talapuru, R. Dantu, K. Upadhyay, S. Zaman, S. Badruddoja, "The Dark Side of Metaverse: Why is it Falling Short of Expectation", 2023, The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
-* 
-## 2022
 
+## 2022
 *	S. Badruddoja, R. Dantu, Y. He, M. Thompson, A. Salau and K. Upadhyay, "Making Smart Contracts Predict and Scale," 2022 Fourth International Conference on Blockchain Computing and Applications (BCCA), 2022, pp. 127-134, doi: 10.1109/BCCA55292.2022.9922480.
 [Link](https://www.researchgate.net/publication/352730718_Making_Smart_Contracts_Smarter)
 
@@ -38,8 +37,6 @@ author_profile: true
 [Link](https://www.researchgate.net/publication/365107055_Making_Blockchain_Validators_Honest)
 
 *	A. Salau, R. Dantu, K. Upadhyay, S. Badruddoja, , “Data Cooperatives for Trusted News Sharing in Social Media”, 2nd International Conference on Blockchain Technology and Emerging Applications “(EAI BlockTEA 2022).  https://blocktea.eai-conferences.org/2022/ accepted-papers/
-
-
 
 *	A. Salau, R. Dantu, K. Morozov, K. Upadhyay, S. Badruddoja, “Towards a Threat Model and Security Analysis for Data Cooperatives”, Proceedings of the 19th International Conference on Security and Cryptography,{SECRYPT} 2022, Lisbon, Portugal, July 11-13, 2022,pp. 707—713,2022, doi: 10.5220/0011328700003283
 [Link](https://www.researchgate.net/publication/362010983_Towards_a_Threat_Model_and_Security_Analysis_for_Data_Cooperatives)
@@ -59,11 +56,9 @@ author_profile: true
 [Link](https://www.researchgate.net/publication/352730718_Making_Smart_Contracts_Smarter)
 
 ## 2020
-
 *	K. Upadhyay, R. Dantu, Z. Zaccagni and S. Badruddoja, "Is Your Legal Contract Ambiguous? Convert to a Smart Legal Contract," 2020 IEEE International Conference on Blockchain (Blockchain), 2020, pp. 273-280, doi: 10.1109/Blockchain50366.2020.00041.
 [Link](https://www.researchgate.net/publication/347779952_Is_Your_Legal_Contract_Ambiguous_Convert_to_a_Smart_Legal_Contract)
 *	S. Badruddoja, R. Dantu, L. Widick, Z. Zaccagni and K. Upadhyay, “Integrating DOTS With Blockchain Can Secure Massive IoT Sensors”, 2020 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW), 2020, pp. 937-946, doi: 10.1109/IPDPSW50202.2020.00156.
 [Link](https://www.researchgate.net/publication/343276083_Integrating_DOTS_With_Blockchain_Can_Secure_Massive_IoT_Sensors)
-
 *	J. Vempati, R. Dantu, S. Badruddoja and M. Thompson, “Adaptive and Predictive SDN Control During DDoS Attacks”, 2020 IEEE International Conference on Intelligence and Security Informatics (ISI), 2020, pp. 1-6, doi: 10.1109/ISI49825.2020.9280542.
 [Link](https://www.researchgate.net/publication/347475763_Adaptive_and_Predictive_SDN_Control_During_DDoS_Attacks)
