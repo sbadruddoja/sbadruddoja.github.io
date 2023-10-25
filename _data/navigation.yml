@@ -3,14 +3,17 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Research "
-    url: /research/
-
-   - title: "Talks"
+  - title: "Talks"
     url: /talks/
 
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Research "
+    url: /research/
+
+  - title: "Diversity"
+    url: /diversity/
 
   - title: "Certifications"
     url: /certifications/
@@ -24,8 +27,8 @@ main:
   - title: "Services"
     url: /services/
 
-  # - title: "CV"
-  #   url: /cv/
+  - title: "CV"
+    url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/
