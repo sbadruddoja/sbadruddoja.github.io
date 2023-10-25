@@ -12,8 +12,8 @@ main:
   - title: "Research "
     url: /research/
 
-  - title: "Diversity"
-    url: /diversity/
+  # - title: "Diversity"
+  #   url: /diversity/
 
   - title: "Certifications"
     url: /certifications/
