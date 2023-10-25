@@ -3,14 +3,20 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Research "
+    url: /research/
+
+    - title: "Awards"
+    url: /awards/
+
+  - title: "Projects"
+    url: /projects/
+    
   - title: "Talks"
     url: /talks/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Research "
-    url: /research/
 
   # - title: "Diversity"
   #   url: /diversity/
@@ -18,17 +24,11 @@ main:
   - title: "Certifications"
     url: /certifications/
 
-  - title: "Awards"
-    url: /awards/
-
-  - title: "Projects"
-    url: /projects/
-
   - title: "Services"
     url: /services/
 
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
 
   # - title: "Guide"
   #   url: /markdown/
