@@ -1,31 +1,18 @@
 ---
 layout: archive
-title: "Current Projects"
-permalink: /projects/
+<!--title: "Current Projects"->>
+permalink: /collaborations/
 author_profile: true
 ---
 
-## Ongoing Projects
-
-### Smart Contracts with Deep Learning Algorithm Intelligence to Secure Preidiction Applications
-  We would like to develop smart contracts to perform feature extraction, training, and classification for CNN and RNN algorithms. CNN algorithms will have a high degree of computations for feature extraction that will 
-  involve two smart contracts: one for convolution and ReLU and the other for pooling. Also, as a final step, the neural network training and classification can use a separate smart contract for the DApp to be more modular 
-  and agile. RNN would involve a similar way of training weights but with a sequential model, as discussed earlier. The tokenization of the language model is to be preprocessed and then fed into the neural network with the 
-  required functions. The neural network will consist of inputs prior input, output activation function outputs, and so on for predicting series data. The parameters of weights for each layer needs to be updated with 
-  forward and backward propagation for optimization purpose. The smart contracts for RNN would involve all the functions involved in the model development for training and prediction.
+### Blockchain for Ride-Sharing Services
+Ride-sharing contracts on the blockchain rely on smart contracts to complete transactions. It is vital to maintain the dependability and security of these contracts, as errors could result in exploitation and loss. The ride-sharing sector is dealing with difficulties such as driver exploitation, price changes, and worries about sustainability. Understanding these issues is critical because they have a direct impact on the economics, safety, and ethical implications of our daily transportation choices. By utilizing smart contracts to assure equitable compensation, enhancing trust between drivers and riders, and enabling safe, tamper-proof record-keeping, the decentralized ledger's transparency may collectively foster an ecosystem that is more accountable and efficient.
   
-### Decision Trees to Help Smart Contracts to Predict for Machine Learnign Algorithms
-  Blockchain helps AI to build trustworhty and immutable predictions system. To further study the nature of smart contract problems and their limitations to predict using machine learning algorithm, we need to investigate 
-  Decision Tree algorithm and evaluate the mathematical model for smart contracts to help the prediction algorithms. Building Decision Trees require the computation of entropy and information gain to identify the best 
-  feature with best split to create the decision tree. We will derive the necessary equations to compute  the complex mathematical equations and implement them inside the smart contract. Moreover, the blockchain is 
-  expensive for layer one computations. The layer two scalability options are good in terms of speed but not secure enough. We will use layer one scalability options for our algorithm and record the performance evaluation. 
+### Sharding can scale Blockchain based Alert Management Systems
+Modern world application architectures fall under Centralized Computing systems which initially offered lucrative opportunities to their users. However, as time passed by these systems have revealed vulnerabilities like single point failures and the requirement to duplicate code on multiple servers to achieve scalability. Additionally, the high server maintenance costs associated with centralized computing have further diminished its effectiveness. The quest for better technology led to a promising architecture called Blockchain which when adopted produced promising results that led to its adoption in almost all fields of study not limited to Payments but also in critical areas like healthcare which requires a tamperproof system that refrains insurance companies tampering the patient’s medical records to evade their claims. It offers a rich set of features including Decentralized networks that prevent Single Point failures, Transaction Immutability and efficient Consensus that eliminate fraudulent transactions. Additionally, Blockchain offers enhanced Security using Cryptographic functions. On the contrary, though this technology gained popularity businesses are concerned about moving their data onto Blockchain because of its transaction time and cost. Any transaction that takes place on the network takes a good amount of time to complete because it has to be verified by all the nodes of the network which is a red flag to all the potential adopters. For example, if an organization uses an Alert Management System to notify users of important events, there is a risk that if an intruder gains control, he can broadcast malicious events, causing chaos. Implementing the system on blockchain ensures consistent, tamper-proof records, enhancing trust. However, it's worth noting that broadcasting records may experience delays as they need to be verified. Blockchain-based GPS systems encounter similar challenges, limiting the potential for GPS on this network. Sharding, a scalable feature of blockchain, can enhance performance of Blockchain. This research explores how Sharding can improve Blockchain-based Alert Systems, reducing transaction times, minimizing costs, and enhancing security. The study also presents performance results. 
 
-### BLOCKAI Trustmeter: A Guide to Quantify The Trust of AI in Decentralized Ledger
-  The quest to help AI Algorithms through blockchain platform demands proofs that blockchain helps build trust in securing AI algorithms. Detering model poisoning attack is discussed in many academic articles. However, the 
-  methods that secure the models from poisoning are mostly theoretical that does not guarantee trust in the cognitive formulae. The blockchain platforms are creating footprints everywhere making data in applications tamper- 
-  proof. Some of the applications have clear benefits for using blockchain. Financial transactions are a major user of blockchain technology that protects against centralized threats. Complex applications from Artificial 
-  Intelligence are driving towards blockchain-based prediction system, but many are unware about how could blockchain help AI? This research focuses on the qunatitative analysis of security enhancement that blockchain 
-  provides to AI algorithms. This will include the security abalysis of non-blockchain versus blockchain-based prediction system   
+### Evaluating AI Security and Implications
+The quick improvement of Artificial intelligence applications has created new cybersecurity challenges.There are multiple threats to AI security, such as privacy loss, data poisoning, etc. These attacks have a significant impact on society and business and even on privacy. This kind of advanced technology is out in the open, and anyone can have access to it and can misuse this important technology to perform harmful deeds, from unauthorized access to sensitive data, denying access to sensitive data to authorized personnel, or misleading the AI to predict harmful spyware and grant access to the sensitive data. That is why it's essential to evaluate the effectiveness of the current AI security systems to prevent cyber-attacks. The proposed projects aim to analyze and implement new methods to prevent and protect from cyber-attacks and create trustworthy AI systems
   
 
 
