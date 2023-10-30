@@ -10,7 +10,7 @@ main:
     url: /awards/
 
   - title: "Collaborative Projects"
-    url: /projects/
+    url: /collaborations/
     
   - title: "Talks"
     url: /talks/
