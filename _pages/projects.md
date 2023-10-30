@@ -1,6 +1,6 @@
 ---
 layout: archive
-<!--title: "Current Projects"->>
+<!--title: "Current Projects"->
 permalink: /collaborations/
 author_profile: true
 ---
