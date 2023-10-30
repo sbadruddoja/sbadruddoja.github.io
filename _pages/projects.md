@@ -1,7 +1,7 @@
 ---
 layout: archive
 <!--title: "Current Projects"->
-permalink: /collaborations/
+permalink: /projects/
 author_profile: true
 ---
 
