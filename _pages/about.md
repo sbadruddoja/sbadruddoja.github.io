@@ -34,11 +34,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 ### News
 
-* August 2023 : Our paper "The Dark Side of Metaverse: Why is it Falling Short of Expectation" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
-
+* April 2024: Our paper titled "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" is accepted at "International Conference on Security and Cryptography (SECRYPT) 2024". 
+* August 2023 : Our paper titled "The Dark Side of Metaverse: Why is it Falling Short of Expectation" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
 * August 2023: Started working as an Assistant Professor at California State University, Sacramento. 
 * July 2023: Our paper "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
-
+* June 2023 : Our paper titled "Layerwise interoperability in metaverse: Key to next-generation electronic commerce" is accepted at "IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)"
 * April 2023: Won "Best Poster Award" for Symposium on Hot Topics in Science of Security (HoTSoS 2023) organized by National Security Agency [NSA](https://sos-vo.org/group/hotsos#:~:text=The%20Hot%20Topics%20in%20the,April%202%2D4%2C%202024.) 
 * December 2022: Won "People's Choice Award" for 3 Minute Thesis COmpetition organized by [UNT](https://tgs.unt.edu/3mt)
 * December 2022: Completed the [Graduate Student Teaching Excellence Program (GSTEP)](https://clear.unt.edu/programs-initiatives/gstep) course .
