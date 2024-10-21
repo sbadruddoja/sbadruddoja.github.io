@@ -9,7 +9,7 @@ redirect_from:
 
 
 * Member of Technical Program Committee for 7th IEEE International Conference on Blockchain, 2024 
-* Member of technical Program Committee for 6th IEEE International Conference on Decentralized Applications and Infrastructure, 2024
+* Member of Technical Program Committee for 6th IEEE International Conference on Decentralized Applications and Infrastructure, 2024
 * Member of Technical Program Committee for 6th International Congress on Blockchain and Applications,2023
 * Member of Technical Program Committee for 5th IEEE International Conference on Blockchain and Computing Applications,2023
 * Technical Program Committee for 5th International Congress on Blockchain and Applications, (Reviewed 2 Articles)
