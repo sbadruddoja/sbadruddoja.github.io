@@ -42,7 +42,7 @@ I work on secure and trustworthy artificial intelligence (AI) algorithms. My ini
       This is a sample paragraph text.
     </td>
     <td style="border: none; vertical-align: top;">
-      <img src="_pages/NB1.jpg" alt="NB1" width="200">
+      <img src="images/NB1.jpg" alt="NB1" width="200">
     </td>
   </tr>
 </table>
