@@ -16,7 +16,7 @@ I work on secure and trustworthy artificial intelligence (AI) algorithms. My ini
 </div>
 
 <div style="flex: 1; text-align: center;">
-<img src="AI-NB-Blockchain.pdf" alt=" The trusted prediction platform with AI and Blockchain integration
+<img src="NB1.jpg" alt=" The trusted prediction platform with AI and Blockchain integration
 with smart contracts to train and predict using a machine learning algorithm" style="max-width: 100%; height: auto;">
 </div>
 
