@@ -12,23 +12,18 @@ redirect_from:
 
 
 <div style="display: table; width: 100%;">
-
 <div style="display: table-row;">
-
 <div style="display: table-cell; width: 50%; vertical-align: top;">
 <p>
 I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model posioning attacks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defend model poiosoningatatcks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain. 
 </p>
 </div>
-
 <div style="display: table-cell; width: 50%; text-align: center;">
-<img src="NB1.jpg" alt="Example Image" style="max-width: 50%; height: auto;">
-</div>
-
+<img src="NB1.jpg" alt="NB1" style="max-width: 50%; height: 50%;">
 </div>
 </div>
 
-
+</div>
 <table>
 <tr>
   <td style="width: 50%; vertical-align: top;">
