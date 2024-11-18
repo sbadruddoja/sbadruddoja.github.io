@@ -6,6 +6,7 @@ redirect_from:
   - /research
 ---
 
+## Smart Contracts Can Predict With Taylor's Series Expansion 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px;">
@@ -17,7 +18,7 @@ redirect_from:
   </tr>
 </table>
 
-### Current Projects
+
 
 #### Smart Contracts with Deep Learning Algorithm Intelligence to Secure Preidiction Applications
  
