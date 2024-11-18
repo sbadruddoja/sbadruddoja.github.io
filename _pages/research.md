@@ -22,7 +22,7 @@ I work on secure and trustworthy artificial intelligence (AI) algorithms. My ini
 </div>
 
 <div style="display: table-cell; width: 50%; text-align: center;">
-<img src="NB1.jpg" alt="Example Image" style="max-width: 100%; height: auto;">
+<img src="NB1.jpg" alt="Example Image" style="max-width: 50%; height: auto;">
 </div>
 
 </div>
