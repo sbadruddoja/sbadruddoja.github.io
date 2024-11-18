@@ -5,7 +5,7 @@ author_profile: true
 redirect_from:
   - /research
 ---
-
+<!--* 
 | Cognitive Smart Contracts with Naive Bayes     |                                     |
 |------------------------------------------------|-------------------------------------------|
 | I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model posionign atatcks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defend model poiosoningatatcks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain. | ![Example Image](NB1.jpg)           |
@@ -34,6 +34,20 @@ I work on secure and trustworthy artificial intelligence (AI) algorithms. My ini
   </td>
 </tr>
 </table>
+-->
+
+<table>
+  <tr>
+    <td style="border: none; vertical-align: top;">
+      This is a sample paragraph text.
+    </td>
+    <td style="border: none; vertical-align: top;">
+      <img src="_pages/NB1.jpg" alt="NB1" width="200">
+    </td>
+  </tr>
+</table>
+
+
 ### Current Projects
 
 #### Smart Contracts with Deep Learning Algorithm Intelligence to Secure Preidiction Applications
