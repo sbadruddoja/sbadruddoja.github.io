@@ -17,6 +17,7 @@ author_profile: true
 
 ## 2024
 * Badruddoja, S., Dantu, R., Dockendorf, M., Salau, A., & Upadhyay, K. "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" 2024, The International Conference on Security and Cryptography (SECRYPT)
+
 ## 2023
 * S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Layerwise Interoperability in Metaverse: key to Next-Generation Electronic Commerce", 2023 IEEE International Conference on Metaverse Computing Networking and Applications (METACOM).
 * S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap", 2023 The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
