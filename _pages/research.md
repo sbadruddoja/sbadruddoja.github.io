@@ -27,7 +27,7 @@ author_profile: true
      We derive a novel method using the Taylor series expansion to compute the floating-point equivalent output for activation functions. We train the deep learning model off-chain using a standard           Python programming language. Moreover, we store models and predict on-chain with blockchain smart contracts to produce a trusted forecast. Our experiment and analysis achieved an accuracy (99\%)         similar to popular Keras Python library models for the MNIST dataset. Furthermore, any blockchain platform can reproduce the activation function using our derived method. Last but not least, other       deep learning algorithms can reuse the mathematical model to predict on-chain.
     </td>
     <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
-      <img src="/_pages/NN1.jpg" alt="NB Image">
+      <img src="/_pages/NN1.png" alt="NB Image">
     </td>
   </tr>
 </table>
