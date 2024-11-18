@@ -1,10 +1,9 @@
 ---
 layout: archive
-title:""
 permalink: /research/
 author_profile: true
-redirect_from:
-  - /research
+<--*redirect_from:
+  - /research-->
 ---
 
 ### Smart Contracts Can Predict With Taylor's Series Expansion 
