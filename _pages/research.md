@@ -9,7 +9,7 @@ author_profile: true
 ### Smart Contracts Can Predict With Taylor's Series Expansion 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 20px;">
+    <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
       I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model poisoning attacks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations, limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defends model poisoning attacks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain.
     </td>
     <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
@@ -23,7 +23,7 @@ author_profile: true
 ### Cognitive Smart Contracts to Predict using Neural Networks
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 20px;">
+    <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
      We derive a novel method using the Taylor series expansion to compute the floating-point equivalent output for activation functions. We train the deep learning model off-chain using a standard           Python programming language. Moreover, we store models and predict on-chain with blockchain smart contracts to produce a trusted forecast. Our experiment and analysis achieved an accuracy (99\%)         similar to popular Keras Python library models for the MNIST dataset. Furthermore, any blockchain platform can reproduce the activation function using our derived method. Last but not least, other       deep learning algorithms can reuse the mathematical model to predict on-chain.
     </td>
     <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
