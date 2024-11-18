@@ -20,8 +20,17 @@ redirect_from:
 
 
 
-### Smart Contracts with Deep Learning Algorithm Intelligence to Secure Preidiction Applications
- 
+### Cognitive Smart Contracts using Neural Networks
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 12px;">
+     We derive a novel method using the Taylor series expansion to compute the floating-point equivalent output for activation functions. We train the deep learning model off-chain using a standard           Python programming language. Moreover, we store models and predict on-chain with blockchain smart contracts to produce a trusted forecast. Our experiment and analysis achieved an accuracy (99\%)         similar to popular Keras Python library models for the MNIST dataset. Furthermore, any blockchain platform can reproduce the activation function using our derived method. Last but not least, other       deep learning algorithms can reuse the mathematical model to predict on-chain.
+    </td>
+    <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
+      <img src="/_pages/NN1.jpg" alt="NB Image">
+    </td>
+  </tr>
+</table>
 ### Decision Trees to Help Smart Contracts to Predict for Machine Learnign Algorithms
   Blockchain helps AI to build trustworhty and immutable predictions system. To further study the nature of smart contract problems and their limitations to predict using machine learning algorithm, we need to investigate. Decision Tree algorithm and evaluate the mathematical model for smart contracts to help the prediction algorithms. Building Decision Trees require the computation of entropy and information gain to identify the best. feature with best split to create the decision tree. We will derive the necessary equations to compute  the complex mathematical equations and implement them inside the smart contract. Moreover, the blockchain is expensive for layer one computations. The layer two scalability options are good in terms of speed but not secure enough. We will use layer one scalability options for our algorithm and record the performance evaluation. 
 
