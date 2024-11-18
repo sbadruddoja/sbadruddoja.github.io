@@ -7,23 +7,9 @@ redirect_from:
 ---
 
 ## Defending Model Poisoning Attacks in Naive bayes Algorithm
-<div style="display: flex; align-items: center;">
-
-<div style="flex: 1;">
-<p>
-I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model posionign atatcks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defend model poiosoningatatcks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain. 
-</p>
-</div>
-
-<div style="flex: 1; text-align: center;">
-<img src="NB1.jpg" alt=" The trusted prediction platform with AI and Blockchain integration
-with smart contracts to train and predict using a machine learning algorithm" style="max-width: 100%; height: auto;">
-</div>
-
-</div>
 
 
-| Description                                     | Picture                                    |
+| Cognitive Smart Contracts with Naive Bayes     |                                     |
 |------------------------------------------------|-------------------------------------------|
 | I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model posionign atatcks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defend model poiosoningatatcks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain. | ![Example Image](NB1.jpg)           |
 
