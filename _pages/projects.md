@@ -13,7 +13,17 @@ Alerts play a vital role in conveying information about events, promptly respond
 
 ## Bashar Allwza - Defending Model Poisoning Attack Using Morphological Filters
 As it is challenging to collect data and could be expensive with time and resources, AI developers must look for online pre-collected datasets to train the model. Online resources enable developers to develop the AI model instantly without spending time collecting the data themselves. However, Online data resources have brought new cybersecurity threats as the attacker can embed poisoned data in the dataset that is undetectable by the developers. This data poison allows the attacker to take control of the model or cause it to have wrong outputs. This project aims to defend and preventing data poisoning attacks on AI, pre-checking and removing the poisoned data, or reducing its effect on AI model prediction
-  
 
+## Rohit Tripathi - DeepFake Detection with Explainable Artificial Intelligence (XAI)
+In today's digital landscape, the proliferation of AI-generated deepfakes poses a significant threat to content authenticity. This project aims to develop an innovative deepfake detection system that leverages the power of explainable AI (XAI) techniques. By combining interpretable machine learning models with stateof-the-art neural networks, the proposed solution will analyze audio, video, and imagery to accurately identify AI-manipulated fabrications. Explainable AI methods, such as feature attribution and saliency maps, will provide insights into the model's decision-making process, enhancing transparency and trustworthiness. The system will be accessible through a web or browser interface, empowering online users to verify content authenticity and mitigate the spread of disinformation.
+
+## Sasi Kanduri - Randomizing Forger Selection to Improve Decentralization in Proof of Stake Consensus Protocol
+Abstract : TBD
+
+## Tulika Choudhary - AI-Driven Multi-Modal Framework for Enhancing Alzheimer's Disease Diagnosis and Prognosi
+Abstract : TBD
+
+## Harshith Sai Veeraiah - A Novel Approach to Smart Contract Security
+Abstract : TBD
 
 
