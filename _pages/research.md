@@ -6,13 +6,13 @@ redirect_from:
   - /research
 ---
 
-<table>
+<table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
-    <td style="border: none; vertical-align: top;width="50%"">
-      I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model posioning attacks in AI algorithms. Machine learning algorithms are prone       to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted                transactions. However, smart contracts in blockchain fail to calculate fixed-point computations limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my         works defend model poiosoningatatcks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain. 
+    <td style="border: none; vertical-align: top; width: 50%; padding-right: 10px;">
+      I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model poisoning attacks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations, limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defends model poisoning attacks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain.
     </td>
-    <td style="border: none; vertical-align: top;">
-      <img src="NB1.jpg" alt="NB1" width="100%">
+    <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
+      <img src="NB1.jpg" alt="NB1" style="max-width: 100%; height: auto;">
     </td>
   </tr>
 </table>
