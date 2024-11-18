@@ -32,14 +32,14 @@ author_profile: true
   </tr>
 </table>
 
-
+### [Towards Deliberative and Unanimous Agreement](https://www.scitepress.org/Papers/2024/128134/128134.pdf)
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
      Current consensus algorithms do not address the requirements of high-stake applications that demand unanimous consensus with deliberation. For instance, a trial case at a court requires unanimous        consensus to decide the fate of a criminal. With limited agreement structure and no deliberation, the current consensus protocol cannot handle the consensus problem. Our research determines the          requirements of a deliberative unanimous consensus model for high-stake applications. Moreover, we propose a family of consensus models that agree on the answer’s correctness and the methods used        to reach it.
     </td>
     <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
-      <img src="/_pages/consensus.png" alt="Consensus Image">
+      <img src="/_pages/consensus.jpg" alt="Consensus Image">
     </td>
   </tr>
 </table>
