@@ -6,7 +6,7 @@ redirect_from:
   - /research
 ---
 
-## Smart Contracts Can Predict With Taylor's Series Expansion 
+### Smart Contracts Can Predict With Taylor's Series Expansion 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 12px;"">
@@ -20,9 +20,9 @@ redirect_from:
 
 
 
-#### Smart Contracts with Deep Learning Algorithm Intelligence to Secure Preidiction Applications
+### Smart Contracts with Deep Learning Algorithm Intelligence to Secure Preidiction Applications
  
-#### Decision Trees to Help Smart Contracts to Predict for Machine Learnign Algorithms
+### Decision Trees to Help Smart Contracts to Predict for Machine Learnign Algorithms
   Blockchain helps AI to build trustworhty and immutable predictions system. To further study the nature of smart contract problems and their limitations to predict using machine learning algorithm, we need to investigate. Decision Tree algorithm and evaluate the mathematical model for smart contracts to help the prediction algorithms. Building Decision Trees require the computation of entropy and information gain to identify the best. feature with best split to create the decision tree. We will derive the necessary equations to compute  the complex mathematical equations and implement them inside the smart contract. Moreover, the blockchain is expensive for layer one computations. The layer two scalability options are good in terms of speed but not secure enough. We will use layer one scalability options for our algorithm and record the performance evaluation. 
 
 #### BLOCKAI Trustmeter: A Guide to Quantify The Trust of AI in Decentralized Ledger
