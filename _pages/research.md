@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-### Smart Contracts Can Predict With Taylor's Series Expansion 
+### [Smart Contracts Can Predict With Taylor's Series Expansion](https://www.researchgate.net/publication/352730718_Making_Smart_Contracts_Smarter) 
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
@@ -20,7 +20,7 @@ author_profile: true
 
 
 
-### Cognitive Smart Contracts to Predict using Neural Networks
+### [Cognitive Smart Contracts to Predict using Neural Networks](https://www.researchgate.net/publication/365102617_Smarter_Contracts_to_Predict_using_Deep-Learning_Algorithms)
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
