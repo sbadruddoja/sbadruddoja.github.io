@@ -12,7 +12,7 @@ redirect_from:
       I work on secure and trustworthy artificial intelligence (AI) algorithms. My initial research started with defending model poisoning attacks in AI algorithms. Machine learning algorithms are prone to data manipulation that breaks the integrity of predictions. Blockchain provides provenance, integrity, decentralized, consensus-based, and fault-tolerant architecture to create trusted transactions. However, smart contracts in blockchain fail to calculate fixed-point computations, limiting the plausibility of predictions through cognitive algorithms in the blockchain. One of my works defends model poisoning attacks using blockchain. I investigate the limitations of smart contracts that restrict learning capabilities in the blockchain.
     </td>
     <td style="border: none; vertical-align: top; width: 50%; text-align: center;">
-      <img src="NB2.png">
+      <img src="NB2.png" alt=" NB Image >
     </td>
   </tr>
 </table>
