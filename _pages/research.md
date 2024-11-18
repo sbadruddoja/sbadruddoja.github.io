@@ -36,7 +36,7 @@ I work on secure and trustworthy artificial intelligence (AI) algorithms. My ini
   </td>
   <td style="width: 50%; text-align: center; border: none; padding: 0;">
     <img src="NB1.jpg" alt="Example Image" style="max-width: 100%; height: auto;">
-  </td>>
+  </td>
 </tr>
 </table>
 ### Current Projects
