@@ -26,4 +26,11 @@ author_profile: true
 ## Harshith Sai Veeraiah - A Novel Approach to Smart Contract Security
 <p style="font-size:14px;">Abstract : TBD</p>
 
+## Farheen Fatima - Cognitive Smart Contracts to Predict using Convolutional Neural Network  
+<p style="font-size:14px;">Abstract : TBD</p>
+
+## Madan Ballupet Venkatesh - Intelligent Agricultural Suggestion System
+<p style="font-size:14px;">Abstract : TBD</p>
+
+
 
