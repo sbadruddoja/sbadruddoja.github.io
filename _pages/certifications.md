@@ -11,7 +11,7 @@ redirect_from:
 This [course](https://www.coursera.org/learn/neural-networks-deep-learning) is designed to study the foundational concept of neural networks and deep learning.The course provides significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 ## Getting started with Go - March 2021
-This [cours] (https://www.coursera.org/learn/golang-getting-started) teach the basics of Go, an open source programming language originally developed by a team at Google and enhanced by many contributors from the open source community. This course is designed for individuals with previous programming experience using such languages as C, Python, or Java, and covers the fundamental elements of Go. 
+This [course](https://www.coursera.org/learn/golang-getting-started) teach the basics of Go, an open source programming language originally developed by a team at Google and enhanced by many contributors from the open source community. This course is designed for individuals with previous programming experience using such languages as C, Python, or Java, and covers the fundamental elements of Go. 
 
 ## Red hat Certified Engineer (RHCE) - July 2016
 Self-titled "the flagship" certification, [RHCE](https://www.redhat.com/en/services/certification/rhce) is a mid-to advanced-level certification that builds on topics covered in the Red hat system administration certification to include more advanced topics such as security and installing common enterprise networking (IP) services.
