@@ -8,12 +8,15 @@ redirect_from:
 ---
 
 
+* Reviewer in Journal of Network and Computer Applications, since 2024
+* Associate Editor in Frontiers of Blockchain Journal for Metaverse and Web3 , since 2024
+* Member of Technical Program Committee for 7th International Congress on Blockchain and Applications,2025
 * Member of Technical Program Committee for 7th IEEE International Conference on Blockchain, 2024 
 * Member of Technical Program Committee for 6th IEEE International Conference on Decentralized Applications and Infrastructure, 2024
-* Member of Technical Program Committee for 6th International Congress on Blockchain and Applications,2023
+* Member of Technical Program Committee for 6th International Congress on Blockchain and Applications,2024
 * Member of Technical Program Committee for 5th IEEE International Conference on Blockchain and Computing Applications,2023
-* Technical Program Committee for 5th International Congress on Blockchain and Applications, (Reviewed 2 Articles)
-* Technical Program Committee for 4th International Congress on Blockchain and Applications, (Reviewed 2 Articles)
+* Technical Program Committee for 5th International Congress on Blockchain and Applications 
+* Technical Program Committee for 4th International Congress on Blockchain and Applications 
 * [Member of Technical Program Committee](https://www.blockchain-congress.net/organization/program-committee), 4th International Congress on Blockchain and Applications,2021
 * [Reviewer](https://books.google.com/books?id=9GBMEAAAQBAJ&pg=PR9&lpg=PR9&dq=syed+badruddoja+ACISP+2021&source=bl&ots=N9uU3gGDbB&sig=ACfU3U2i3gcrSwDfSp_IjXSgCRLb1veV8g&hl=en&sa=X&ved=2ahUKEwjDzcyY5ZD8AhUrkmoFHa8sD90Q6AF6BAglEAM#v=onepage&q&f=false), 26th Australasian Conference on Information Security & Privacy, 2021
 * Reviewer, 3rd Workshop on Network Management For 6G Communication Systems (NETMAN6G), part of GLOBECOM conference, 2022
