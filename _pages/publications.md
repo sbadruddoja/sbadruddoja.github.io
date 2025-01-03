@@ -16,7 +16,9 @@ author_profile: true
 {% endfor %} -->
 
 
-* 2024 - Badruddoja, S., Dantu, R., Dockendorf, M., Salau, A., & Upadhyay, K. "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" 2024, The International Conference on Security and Cryptography (SECRYPT)
+* 2024 -  S. Badruddoja, B. Allwza, R. Dantu. "Evaluating and Defending Backdoor Attacks in Image Recognition Systems” (Accepted), 11th International Conference on Information Systems Security and Privacy (ICISSP 2025). 
+* 2024 -  S. Badruddoja, S. Kiran, R. Dantu "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" (Accepted), 11th International Conference on Information Systems Security and Privacy (ICISSP 2025).
+* 2024 -  S. Badruddoja, R. Dantu, M. Dockendorf, A. Salau, & K. Upadhyay. "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" 2024, The International Conference on Security and Cryptography (SECRYPT)
 * 2023 - S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Layerwise Interoperability in Metaverse: key to Next-Generation Electronic Commerce", 2023 IEEE International Conference on Metaverse Computing Networking and Applications (METACOM).
 * 2023 - S. Zaman, R. Dantu, S. Badruddoja, S. talapuru, K. Upadhyay, "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap", 2023 The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
 * 2023 - S. Talapuru, R. Dantu, K. Upadhyay, S. Zaman, S. Badruddoja, "The Dark Side of Metaverse: Why is it Falling Short of Expectation", 2023, The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications (IEEE TPS).
