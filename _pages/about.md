@@ -39,6 +39,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * November 2024 : California State University, Sacramento anked #47 nationally out of 550 colleges and universities in the [Cyber Power Rankings](https://cyberskyline.com/data/power-ranking/fall-2024-national) in the Fall 2024 National Cyber League Competition
 * August 2024: A new course "Introduction to Blockchain" is offered for the first time at California State University, Sacramento. 
 * April 2024: Our paper titled "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" is accepted at "International Conference on Security and Cryptography (SECRYPT) 2024". 
+* March 2024: My student Sasi Kiran awarded 2nd place in the Student Research and Creative Activity Spring Symposium 2024.
 * August 2023 : Our paper titled "The Dark Side of Metaverse: Why is it Falling Short of Expectation" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
 * August 2023: Started working as an Assistant Professor at California State University, Sacramento. 
 * July 2023: Our paper "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
