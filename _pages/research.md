@@ -44,6 +44,20 @@ author_profile: true
   </tr>
 </table>
 
+### [Towards a Threat Model and Security Analysis for Data Cooperatives]([https://www.scitepress.org/Papers/2024/128134/128134.pdf](https://pdfs.semanticscholar.org/526a/d655be04cfdbc1491a8dafacd497a65435d4.pdf))
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
+     Data cooperative (called “data coop” for short) is an emerging approach in the area of secure data management. It promises its users a better protection and control of their 
+data, as compared to the traditional way of their handling by the data collectors (such as governments, big data companies, and others). However, for the success of data coops, 
+existing challenges with respect to data management systems need to be adequately addressed. Especially, they concern terms of security and privacy, as well as the power imbalance between providers/owners and collectors of data. Designing a security and privacy model for a data coop requires a systematic threat modeling approach that identifies the security landscape, attack vectors, threats, and vulnerabilities, as well as the respective mitigation strategies. In this paper, we analyze the security of data cooperatives, identify potential security risks and threats, and suggest adequate countermeasures. We also discuss existing challenges that hinder the widespread adoption of data coops.
+    </td>
+    <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
+      <img src="/_pages/DC_ABIOLA.pdf" alt="Data Cooperative Image">
+    </td>
+  </tr>
+</table>
+
 
 ### Decision Trees to Help Smart Contracts to Predict for Machine Learning Algorithms
   Blockchain helps AI to build trustworhty and immutable predictions system. To further study the nature of smart contract problems and their limitations to predict using machine learning algorithm, we need to investigate. Decision Tree algorithm and evaluate the mathematical model for smart contracts to help the prediction algorithms. Building Decision Trees require the computation of entropy and information gain to identify the best. feature with best split to create the decision tree. We will derive the necessary equations to compute  the complex mathematical equations and implement them inside the smart contract. Moreover, the blockchain is expensive for layer one computations. The layer two scalability options are good in terms of speed but not secure enough. We will use layer one scalability options for our algorithm and record the performance evaluation. 
