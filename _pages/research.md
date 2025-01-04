@@ -44,7 +44,7 @@ author_profile: true
   </tr>
 </table>
 
-### [Towards a Threat Model and Security Analysis for Data Cooperatives]([https://www.scitepress.org/Papers/2024/128134/128134.pdf](https://pdfs.semanticscholar.org/526a/d655be04cfdbc1491a8dafacd497a65435d4.pdf))
+### [Towards a Threat Model and Security Analysis for Data Cooperatives](https://www.scitepress.org/Papers/2024/128134/128134.pdf)
 <table style="width: 100%; border-collapse: collapse; border: none;">
   <tr>
     <td style="border: none; vertical-align: top; width: 50%; padding-right: 12px; font-size: 16px;">
