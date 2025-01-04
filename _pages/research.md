@@ -53,7 +53,7 @@ data, as compared to the traditional way of their handling by the data collector
 existing challenges with respect to data management systems need to be adequately addressed. Especially, they concern terms of security and privacy, as well as the power imbalance between providers/owners and collectors of data. Designing a security and privacy model for a data coop requires a systematic threat modeling approach that identifies the security landscape, attack vectors, threats, and vulnerabilities, as well as the respective mitigation strategies. In this paper, we analyze the security of data cooperatives, identify potential security risks and threats, and suggest adequate countermeasures. We also discuss existing challenges that hinder the widespread adoption of data coops.
     </td>
     <td style="border: none; vertical-align: top; width: 35%; text-align: center;">
-      <img src="/_pages/DC_ABIOLA.pdf" alt="Data Cooperative Image">
+      <img src="/_pages/DC_ABIOLA1.jpg" alt="Data Cooperative Image">
     </td>
   </tr>
 </table>
