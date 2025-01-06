@@ -44,6 +44,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * May 2024: Completed ACUE Course on "Generative AI (Gen-AI)"
 * April 2024: Our paper titled "Revolutionizing Blockchain Consensus: Towards Deliberative and Unanimous Agreement" is accepted at "International Conference on Security and Cryptography (SECRYPT) 2024". 
 * March 2024: My student Sasi Kiran awarded 2nd place in the Student Research and Creative Activity Spring Symposium 2024.
+* December 2023: Started working as the Co-PI for NSF-SFS (Scholarship for Service) grant. ( Awarded to CSU, Sacramento)
+* December 2023: Started working as the Co-PI for the CS4NORTHCAL grant. ( Subawarded to ) 
 * August 2023 : Our paper titled "The Dark Side of Metaverse: Why is it Falling Short of Expectation" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
 * August 2023: Started working as an Assistant Professor at California State University, Sacramento. 
 * July 2023: Our paper "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
