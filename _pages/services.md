@@ -17,12 +17,14 @@ redirect_from:
 * Member of Technical Program Committee for 5th IEEE International Conference on Blockchain and Computing Applications,2023
 * Technical Program Committee for 5th International Congress on Blockchain and Applications 
 * Technical Program Committee for 4th International Congress on Blockchain and Applications 
-* [Member of Technical Program Committee](https://www.blockchain-congress.net/organization/program-committee), 4th International Congress on Blockchain and Applications,2021
-* [Reviewer](https://books.google.com/books?id=9GBMEAAAQBAJ&pg=PR9&lpg=PR9&dq=syed+badruddoja+ACISP+2021&source=bl&ots=N9uU3gGDbB&sig=ACfU3U2i3gcrSwDfSp_IjXSgCRLb1veV8g&hl=en&sa=X&ved=2ahUKEwjDzcyY5ZD8AhUrkmoFHa8sD90Q6AF6BAglEAM#v=onepage&q&f=false), 26th Australasian Conference on Information Security & Privacy, 2021
+* Member of Technical Program Committee, 4th International Congress on Blockchain and Applications,2021
+* Reviewer, 26th Australasian Conference on Information Security & Privacy, 2021
 * Reviewer, 3rd Workshop on Network Management For 6G Communication Systems (NETMAN6G), part of GLOBECOM conference, 2022
 
 
-
+<!--(https://books.google.com/books?id=9GBMEAAAQBAJ&pg=PR9&lpg=PR9&dq=syed+badruddoja+ACISP+2021&source=bl&ots=N9uU3gGDbB&sig=ACfU3U2i3gcrSwDfSp_IjXSgCRLb1veV8g&hl=en&sa=X&ved=2ahUKEwjDzcyY5ZD8AhUrkmoFHa8sD90Q6AF6BAglEAM#v=onepage&q&f=false)
+(https://www.blockchain-congress.net/organization/program-committee)
+-->
 
 
 
