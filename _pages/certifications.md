@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /certifications
 ---
-## [ACUE Generative AI] (https://acue.org/ai-series/) - May 2024
+## [ACUE Generative AI](https://acue.org/ai-series/) - May 2024
 The ACUE Gen AI course provides educators with practical strategies for integrating generative AI tools into teaching and learning. It emphasizes ethical considerations, fosters critical thinking, and highlights ways to use AI to enhance student engagement and academic integrity. The course equips educators to navigate AI's potential while maintaining inclusive and effective teaching practices.
 
 
