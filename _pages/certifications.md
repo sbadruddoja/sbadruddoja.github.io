@@ -6,6 +6,13 @@ author_profile: true
 redirect_from:
   - /certifications
 ---
+## [ACUE Generative AI] (https://acue.org/ai-series/) - May 2024
+The ACUE Gen AI course provides educators with practical strategies for integrating generative AI tools into teaching and learning. It emphasizes ethical considerations, fosters critical thinking, and highlights ways to use AI to enhance student engagement and academic integrity. The course equips educators to navigate AI's potential while maintaining inclusive and effective teaching practices.
+
+
+## [ACUE Creating an Inclusive and Supportive Learning Environment](https://learn.acue.org/course/creating-an-inclusive-and-supportive-learning-environment/) (CISLE) - May 2024
+Create an optimal environment that supports learning, increases engagement, embraces diversity, and helps students persist in meeting academic challenges. ACUE’s Creating an Inclusive and Supportive Learning Environment course equips instructors with evidence-based teaching practices that help them start the term strong, ensure equitable access to learning, and provide feedback necessary for students to improve their performance.
+
 
 ## Neural Networks and Deep Learning- Coursera - August 2022
 This [course](https://www.coursera.org/learn/neural-networks-deep-learning) is designed to study the foundational concept of neural networks and deep learning.The course provides significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
