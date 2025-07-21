@@ -62,7 +62,6 @@ Led interactive sessions focused on threat detection, vulnerability management, 
 * April 2022: Won the best poster layout award at the UNT Engineering Showcase Research Poster Competition.
 
 
-
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
