@@ -34,8 +34,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 ### News
 
-* December 2024 : Our paper titled "Evaluating and Defending Backdoor Attacks in Image Recognition Systems" is accepted at the 11th International Conference on Information Systems Security and Privacy. Authors : Syed Badruddoja, Bashar Allwza, Ram Dantu
-* December 2024 : Our paper titled "Randomizing Forger Selection to Improve Decentralization in Proof of Stake Consensus Protocol" is accpeted at the 11th International Conference on Information Systems Security and Privacy, Authors: Syed Badruddoja, Sasi Kiran, Ram Dantu
+* June 2025 : Trained military and civilian personnel from various military and civil organizations on the CompTIA CySA+ course at CyberDawn 2025, hosted by the California Military Department and Cal OES.
+Led interactive sessions focused on threat detection, vulnerability management, and security operations, fostering hands-on cybersecurity skills.
+* April 2025 : Presented our work on "Randomizing Forger Selection in PoS-Based Consensus Protocols" and "Defending and Evaluating Model Poisoning Attacks Using Morphological Filters" at the CAE Cybersecurity Symposium 2025. 
+* January 2025 : Our paper titled "Evaluating and Defending Backdoor Attacks in Image Recognition Systems" is accepted at the 11th International Conference on Information Systems Security and Privacy. Authors : Syed Badruddoja, Bashar Allwza, Ram Dantu
+* January 2025 : Our paper titled "Randomizing Forger Selection to Improve Decentralization in Proof of Stake Consensus Protocol" is accpeted at the 11th International Conference on Information Systems Security and Privacy, Authors: Syed Badruddoja, Sasi Kiran, Ram Dantu
 * December 2024 : Completed AI FLC/PLC program with a successful culminating event.
 * December 2024 : Completed CISLE FLC/PLC program with a successful culminating event. 
 * November 2024 : California State University, Sacramento ranked 47th nationally out of 550 colleges and universities in the [Cyber Power Rankings](https://cyberskyline.com/data/power-ranking/fall-2024-national) in the Fall 2024 National Cyber League Competition
