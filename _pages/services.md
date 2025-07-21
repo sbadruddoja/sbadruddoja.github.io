@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-* Reviewer in Journal of Network and Computer Applications, since 2024
+* Panelist in NSF grant review commitee for SATC (Secure and Trustworthy Cyberspace), 2025
+* Reviewer in Journal of Computer Networks, since 2024.
+* Reviewer in Journal of Network and Computer Applications, since 2024. 
 * Associate Editor in Frontiers of Blockchain Journal for Metaverse and Web3 , since 2024
 * Member of Technical Program Committee for 7th International Congress on Blockchain and Applications,2025
 * Member of Technical Program Committee for 7th IEEE International Conference on Blockchain, 2024 
