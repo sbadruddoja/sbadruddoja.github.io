@@ -5,6 +5,7 @@ permalink: /awards/
 author_profile: true
 ---
 
+* 2025: Awarded "Incentive for Developing External Awards (IDEA") grant for external grant submissions. 
 * 2025: Awarded Summer Online Grant: Course [Re]Design program from Center of Teaching and Learning, California State University, Sacramento
 * 2024: Letter of recognition for coaching students in National Cyber League Competitions for Fall 2024 
 * 2024: Awarded Summer Online Grant: Course [Re]Design program from Center of Teaching and Learning, California State University, Sacramento
