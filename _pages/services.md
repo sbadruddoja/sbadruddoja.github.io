@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 
+* TPC member - 7th IEEE International Conference on Blockchain and Computing Applications,2025
+* TPC member - 7th IEEE International Conference on Decentralized Applications and Infrastructure, 2025
 * Panelist - NSF grant review commitee for SATC (Secure and Trustworthy Cyberspace), 2025
 * IEEE member, R6-Western, Sacramento Valley Section, 2025
 * Reviewer - Journal of Computer Networks, since 2024.
