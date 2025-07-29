@@ -7,7 +7,6 @@ author_profile: true
 
 Name: Aravind Yuvaraj 
 Project Title:  Blockchain for Ride-Sharing Services
-Status: Graduated
 
 Name: Varun Bailapudi 
 Project Title: Sharding can Scale Blockchain-based Alert Management Systems
