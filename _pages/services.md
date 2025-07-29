@@ -9,6 +9,7 @@ redirect_from:
 
 
 * TPC member - 7th IEEE International Conference on Blockchain and Computing Applications, 2025
+**
 * TPC member - 7th IEEE International Conference on Decentralized Applications and Infrastructure, 2025
 * TPC member - 7th International Congress on Blockchain and Applications,2025
 * Panelist - NSF grant review commitee for SATC (Secure and Trustworthy Cyberspace), 2025
