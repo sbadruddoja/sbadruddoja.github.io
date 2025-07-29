@@ -5,16 +5,16 @@ permalink: /collaborations/
 author_profile: true
 ---
 
-Name: Aravind Yuvaraj 
-Project Title:  Blockchain for Ride-Sharing Services
+## Name: Aravind Yuvaraj 
+### Project Title:  Blockchain for Ride-Sharing Services
 
-Name: Varun Bailapudi 
-Project Title: Sharding can Scale Blockchain-based Alert Management Systems
+## Name: Varun Bailapudi 
+### Project Title: Sharding can Scale Blockchain-based Alert Management Systems
 
-Name: Bashar Allwza 
-Project Title: Defending Model Poisoning Attack Using Morphological Filters 
+## Name: Bashar Allwza 
+### Project Title: Defending Model Poisoning Attack Using Morphological Filters 
 
-Name: Rohit Tripathi 
+## Name: Rohit Tripathi 
 Project Title: DeepFake Detection with Explainable Artificial Intelligence (XAI)
 
 Name: Sasi Kanduri 
