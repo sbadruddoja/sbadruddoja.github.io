@@ -5,7 +5,7 @@ permalink: /collaborations/
 author_profile: true
 ---
 
-* Name: Aravind Yuvaraj<br>Project Title:  Blockchain for Ride-Sharing Services
+* Name: Aravind Yuvaraj<br>Project Title:  Securing Smart Contracts for Ride-Sharing Services
 
 * Name: Varun Bailapudi<br>Project Title: Sharding can Scale Blockchain-based Alert Management Systems
 
