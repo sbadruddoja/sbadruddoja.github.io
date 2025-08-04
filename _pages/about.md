@@ -28,6 +28,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * Consensus Protocol Improvement
 * Smart Contract Security and Privacy
 * Blockchain for AI
+* Cyber-AI Integration
 * Metering Trustworthy AI 
 
 
