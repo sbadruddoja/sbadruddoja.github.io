@@ -31,12 +31,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * Cyber-AI Integration
 * Metering Trustworthy AI 
 
-
 ### News
-
-* June 2025 : Trained military and civilian personnel from various military and civil organizations on the CompTIA CySA+ course at CyberDawn 2025, hosted by the California Military Department and Cal OES.
+* June 2025 : Trained military and civilian personnel from various military and civil organizations on the CompTIA CySA+ course at CyberDawn 2025, hosted by the California Military Department and Cal OES. Played a Network Owner role for a Blue team exercise. 
 Led interactive sessions focused on threat detection, vulnerability management, and security operations, fostering hands-on cybersecurity skills.
-* April 2025 : Presented our work on "Randomizing Forger Selection in PoS-Based Consensus Protocols" and "Defending and Evaluating Model Poisoning Attacks Using Morphological Filters" at the CAE Cybersecurity Symposium 2025. 
+*  April 2025 : Presented our work on "Randomizing Forger Selection in PoS-Based Consensus Protocols" and "Defending and Evaluating Model Poisoning Attacks Using Morphological Filters" at the CAE Cybersecurity Symposium 2025.
+*  March 2025 : Awarded the "Best Paper Award" for our paper titled "Randomizing Forger Selection in PoS-Based Consensus Protocols" at the 11th International Conference on Information Systems Security and Privacy. Authors : Syed Badruddoja, Bashar Allwza, Ram Dantu
 * January 2025 : Our paper titled "Evaluating and Defending Backdoor Attacks in Image Recognition Systems" is accepted at the 11th International Conference on Information Systems Security and Privacy. Authors : Syed Badruddoja, Bashar Allwza, Ram Dantu
 * January 2025 : Our paper titled "Randomizing Forger Selection to Improve Decentralization in Proof of Stake Consensus Protocol" is accpeted at the 11th International Conference on Information Systems Security and Privacy, Authors: Syed Badruddoja, Sasi Kiran, Ram Dantu
 * December 2024 : Completed AI FLC/PLC program with a successful culminating event.
@@ -53,13 +52,13 @@ Led interactive sessions focused on threat detection, vulnerability management, 
 * August 2023: Started working as an Assistant Professor at California State University, Sacramento. 
 * July 2023: Our paper "Seamless Asset Exchange in Interconnected Metaverses: Unraveling On-Chain Atomic Swap" is accepted at "The Fifth IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications".
 * June 2023 : Our paper titled "Layerwise interoperability in metaverse: Key to next-generation electronic commerce" is accepted at "IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)"
-* April 2023: Won "Best Poster Award" for Symposium on Hot Topics in Science of Security (HoTSoS 2023) organized by National Security Agency [NSA](https://sos-vo.org/group/hotsos#:~:text=The%20Hot%20Topics%20in%20the,April%202%2D4%2C%202024.) 
-* December 2022: Won "People's Choice Award" for 3 Minute Thesis COmpetition organized by [UNT](https://tgs.unt.edu/3mt)
+* April 2023: Awarded "Best Poster" for our poster titled "Making Smart Contracts Predict and Scale" at the Symposium on Hot Topics in Science of Security (HoTSoS 2023) organized by National Security Agency [NSA](https://sos-vo.org/group/hotsos#:~:text=The%20Hot%20Topics%20in%20the,April%202%2D4%2C%202024.) 
+* December 2022: Awarded "People's Choice Award" for 3 Minute Thesis Competition organized by [UNT](https://tgs.unt.edu/3mt) 
 * December 2022: Completed the [Graduate Student Teaching Excellence Program (GSTEP)](https://clear.unt.edu/programs-initiatives/gstep) course .
-* November 2022: Won second place at the IEEE Metrocon Poster Competition 2022, organized by the Fort Worth Section of IEEE
+* November 2022: Awarded second place at the IEEE Metrocon Poster Competition 2022 for the poster titled "Can Blockchain Help AI?", organized by the Fort Worth Section of IEEE
 * October 2022: Presented his work on "Trusted AI with BLockchain to Empower Metaverse" at the Mathematical Institute of Serbian Academy of Science and Arts.
-* September 2022: Won the best paper award for " Making Smart Contracts Predict and Scale" paper at the IEEE International Conference on Blockchain Computing and Applications BCCA2022.
-* April 2022: Won the best poster layout award at the UNT Engineering Showcase Research Poster Competition.
+* September 2022: Awarded the "Best Paper" for our paper titled "Making Smart Contracts Predict and Scale" paper at the IEEE International Conference on Blockchain Computing and Applications BCCA2022.
+* April 2022: Awarded the "Best Poster Layout" at the UNT Engineering Showcase Research Poster Competition for the poster titled "Can Blockchain Help AI?".
 
 
 <!-- Getting started
