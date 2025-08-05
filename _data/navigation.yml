@@ -12,8 +12,8 @@ main:
   - title: "Student Projects"
     url: /collaborations/
     
-  - title: "Talks"
-    url: /talks/
+  # - title: "Talks"
+  #   url: /talks/
 
   - title: "Teaching"
     url: /teaching/
