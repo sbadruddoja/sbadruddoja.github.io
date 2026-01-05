@@ -32,9 +32,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * Metering Trustworthy AI 
 
 ### News
-* November 2025: Our paper titled "XAST: XAST: Explainable AST-Transformer for Smart Contract Vulnerability Detection" is accepted at the 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications 2025. Authors : Harshith Sai Veeraiah, Syed Badruddoja, Ram Dantu
-* November 2025: Arranged an exciting event with IEEE Young Professional group on "Industry and Research Pathways of Cyber-Ai" at California State University, Sacramento.
-* September 2025: Arranged a productive event with IEEE Young Professional group on "Resume and Finance Meetup" at the University of the Pacific, Stockton, California.
+* November 2025: Our paper titled "XAST: Explainable AST-Transformer for Smart Contract Vulnerability Detection" is accepted at the 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications 2025. Authors : Harshith Sai Veeraiah, Syed Badruddoja, Ram Dantu
+* November 2025: Hosted an exciting event with IEEE Young Professional group on "Industry and Research Pathways of Cyber-AI" at California State University, Sacramento.
+* September 2025: Hosted a productive event with IEEE Young Professional group on "Resume and Finance Meetup" at the University of the Pacific, Stockton, California.
+* August 2025: Attended 
 * June 2025 : Trained military and civilian personnel from various military and civil organizations on the CompTIA CySA+ course at CyberDawn 2025, hosted by the California Military Department and Cal OES. Played a Network Owner role for a Blue team exercise. 
 Led interactive sessions focused on threat detection, vulnerability management, and security operations, fostering hands-on cybersecurity skills.
 *  April 2025 : Presented our work on "Randomizing Forger Selection in PoS-Based Consensus Protocols" and "Defending and Evaluating Model Poisoning Attacks Using Morphological Filters" at the CAE Cybersecurity Symposium 2025.
