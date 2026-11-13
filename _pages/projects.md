@@ -35,4 +35,4 @@ author_profile: true
   
 * Name: Vishal Reddy Vadde   <br>Project Title:  A Privacy-Preserving, Injection-Resistant LLM Platform for Heart Conditions
 
-* Name: Prudhvi Kodali   <br>Project Title: Adaptive Meta-Agent for Multi-Agent Large Language Model Incident Response
+* Name: Prudhvi Kodali   <br>Project Title: Multi-Agent Forensic Analysis with Large Language Models 
