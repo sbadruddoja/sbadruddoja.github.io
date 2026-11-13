@@ -32,6 +32,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 * Metering Trustworthy AI 
 
 ### News
+* October 2026: Hosted a 1.5 day cybersecurity incident response event. The event brought together experts from industry who trained our students on offensive and defensive operations. Also, there was a live exercise on day 2 for real-time attack and incident response simulation.  
+* July 2026: Organized a  Cybersecurity and Artificial Intelligence (Cyber-AI) speaker series through IEEE Computer Society Sacramento Valley chapter. Industry experts shared their insights on latest development and industry trends 
+* June 2026: Organized summer program for SFS scholars. They received cyber-range training with simulated cloud range environment. Instructors from the state agencies joined the program to train our students. 
+* January 2026: Attended the NSF Scholarship for Service PI meeting 2026. California State University Sacramento shared the achievements with all the federal agencies and universities. 
 * November 2025: Our paper titled "XAST: Explainable AST-Transformer for Smart Contract Vulnerability Detection" is accepted at the 7th IEEE International Conference on Trust, Privacy and Security in Intelligent Systems, and Applications 2025. Authors : Harshith Sai Veeraiah, Syed Badruddoja, Ram Dantu
 * November 2025: Hosted an exciting event with IEEE Young Professional group on "Industry and Research Pathways of Cyber-AI" at California State University, Sacramento.
 * September 2025: Hosted a productive event with IEEE Young Professional group on "Resume and Finance Meetup" at the University of the Pacific, Stockton, California.
